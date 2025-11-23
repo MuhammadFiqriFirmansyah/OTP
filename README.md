@@ -1,7 +1,8 @@
 # OTP
 1. Kodingan Program
 2. Screenshot Kodingan
-3. Table ASCII
+3. Screenshot Hasil Program
+4. Table ASCII
    
 ## Kodingan Program
 ```py
