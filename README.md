@@ -409,3 +409,11 @@ root.mainloop()
 ## Tabel ASCII
 ![ASCII Conversion Chart](https://github.com/user-attachments/assets/edbd582a-3715-49b2-9b12-3670673c6802)
 
+## 👨‍💻 **Dibuat Oleh**
+
+**Muhammad Fiqri Firmansyah**  
+🧑‍🎓 Universitas Pelita Bangsa – Teknik Informatika  
+📚 Kriptografi 2025  
+💡 *© 2025 | Made by PIKI*
+
+---
