@@ -406,6 +406,13 @@ root.mainloop()
 ## Screenshot Kodingan
 <img width="2950" height="15340" alt="OTP" src="https://github.com/user-attachments/assets/10b9a6e9-286b-4ec1-b26a-0ddb5a2cf348" />
 
+## Screenshot Hasil Program
+### Encrypt
+<img width="1265" height="615" alt="image" src="https://github.com/user-attachments/assets/bf81d01d-d82c-45be-a09b-75dab7272e37" />
+
+### Decrypt
+<img width="1426" height="621" alt="image" src="https://github.com/user-attachments/assets/825dfabf-a0d6-44a7-a541-0ab9c0494e2d" />
+
 ## Tabel ASCII
 ![ASCII Conversion Chart](https://github.com/user-attachments/assets/edbd582a-3715-49b2-9b12-3670673c6802)
 
